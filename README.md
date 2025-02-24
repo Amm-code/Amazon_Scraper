@@ -19,7 +19,7 @@ Usage Notes
 The script scrapes data from Amazon search results (default: "cleaning tools").
 It loops through multiple pages and extracts product details.
 The extracted data is saved in amazon_products_updated.csv.
-To modify search keywords, update the BASE_URL in amazon_scraper.py.
+To modify search keywords, update the BASE_URL in bs.py and range depend on your desired pages.
 
 📧 Contact
 For any questions, reach out at:
